@@ -11,7 +11,9 @@ $(document).ready(function () {
                     dots: true,
                     arrows: false
                 }
+                
             }
+            
         ]
     });
 
@@ -33,4 +35,4 @@ $(document).ready(function () {
 
     toggleSlide('.catalog-item__link');
     toggleSlide('.catalog-item__back');
-}); ggg
+});

@@ -29,4 +29,13 @@
             height: 50px;
         }
     }
+    .slick-dots {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 30px;
+        #slick-slide-control00, #slick-slide-control01, #slick-slide-control02 {
+            display: none;
+        }
+    }
 }

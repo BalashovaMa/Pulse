@@ -57,7 +57,12 @@
             line-height: 20px;
         }
     }
-
+    .catalog__content {
+        justify-content: center;
+    }
+    .catalog__tab {
+        font-size: 14px;
+    }
     
 }
 
@@ -73,7 +78,9 @@
 
 
     }
-    
+    .catalog__tab {
+        font-size: 10px;
+    }
 
 }
 
@@ -124,5 +131,7 @@
             line-height: 20px;
         }
     }
-
+    .catalog__tab {
+        font-size: 8px;
+    }
 }

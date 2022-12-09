@@ -66,6 +66,20 @@
     
 }
 
+@media (max-width: 600px) {
+    .feed__item {
+        display: flex;
+        flex-direction: column;
+        img {
+            width: 169px;
+            height: 169px;
+            display: block;
+            margin: 0 auto;
+        }
+    }
+   
+}
+
 @media (max-width: 500px) {
     .container {
         max-width: 350px;

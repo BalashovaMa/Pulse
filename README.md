@@ -1,1 +1,1 @@
-https://balashovama.github.io/Pulse/src
+https://balashovama.github.io/Pulse/dist
